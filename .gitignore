@@ -92,3 +92,4 @@ GRTAGS
 GSYMS
 GTAGS
 .project
+.idea/**
